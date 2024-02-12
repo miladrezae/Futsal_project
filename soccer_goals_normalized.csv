@@ -1,0 +1,312 @@
+Team1,Team2,Result,Match
+_Sina Nozarian,_Behnam Hajimosaei,0.5714285715,1
+_Payam Zh. Monfared,_Ali Asadinia,0.5714285715,1
+_Mehdi Saadati,_Alireza Ranjbar,0.5714285715,1
+_Yousef Nikzad,_Milad,0.5714285715,1
+_Alireza Najafi,_Afshin,0.5714285715,1
+_Jamshid,_Hadi,0.5714285715,1
+_Sina Nozarian,_Sina Eslami,0.5,2
+_Payam Zh. Monfared,_Ashkan,0.5,2
+_Erfan Moeini,_Mohsen Mirzaei,0.5,2
+_Ali Asadinia,_Afshin,0.5,2
+_Alireza Ranjbar,_Mehdi Saadati,0.5,2
+_Ali Izadi,_Hadi,0.5,2
+_Ali Asadinia,_Ashkan,0.55,3
+_Alireza Najafi,_Mehdi Saadati,0.55,3
+_Milad,_Payam Zh. Monfared,0.55,3
+_Mohammad_Amin Ghiasi,_Sina Eslami,0.55,3
+_Yousef Nikzad,_Amin,0.55,3
+_Behnam Hajimosaei,,0.55,3
+_Ashkan,_Afshin,0.55,4
+_Mehdi Saadati,_Ali Izadi,0.55,4
+_Payam Zh. Monfared,_Ali Kalantari,0.55,4
+_Sina Eslami,_Alireza Ranjbar,0.55,4
+_Amin,_Alireza Nazeri,0.55,4
+_Ali Asadinia,_Afshin,0.6,5
+_Alireza Najafi,_Ali Izadi,0.6,5
+_Milad,_Ali Kalantari,0.6,5
+_Mohammad_Amin Ghiasi,_Alireza Ranjbar,0.6,5
+_Yousef Nikzad,_Alireza Nazeri,0.6,5
+_Behnam Hajimosaei,,0.6,5
+_Sina Nozarian,_Behnam Hajimosaei,1.0,6
+_Pedram Ensandoost,_Amin,1.0,6
+_Ali Asadinia,_Milad,1.0,6
+_Mehdi Saadati,_Erfan Moeini,1.0,6
+_Alireza Najafi,_Ashkan,1.0,6
+_Afshin,_Payam Zh. Monfared,1.0,6
+_Sina Eslami,,1.0,6
+_Sina Nozarian,_Behnam Hajimosaei,0.6666666665,7
+_Alireza Nazeri,_Ali Asadinia,0.6666666665,7
+_Payam Zh. Monfared,_Ali Izadi,0.6666666665,7
+_Alireza Ranjbar,_Mohammad_Amin Ghiasi,0.6666666665,7
+_Milad,_Alireza Najafi,0.6666666665,7
+_Saeid Hobbi,_Ali Kalantari,0.6666666665,7
+_Behnam Hajimosaei,_Sina Nozarian,0.5,8
+_Alireza Nazeri,_Ali Asadinia,0.5,8
+_Saleh Mohammad Rezaei,_Mehdi Saadati,0.5,8
+_Alireza Najafi,_Alireza Ranjbar,0.5,8
+_Ali Kalantari,_Ashkan,0.5,8
+_Behnam Hajimosaei,_Sina Nozarian,0.25,9
+_Alireza Nazeri,_Ali Asadinia,0.25,9
+_Saleh Mohammad Rezaei,_Mehdi Saadati,0.25,9
+_Alireza Najafi,_Alireza Ranjbar,0.25,9
+_Ali Kalantari,_Ashkan,0.25,9
+_Amin,_Sina Nozarian,0.5,10
+_Ali Izadi,_Ali Asadinia,0.5,10
+_Sina Eslami,_Mehdi Saadati,0.5,10
+_Mohsen Mirzaei,_Alireza Ranjbar,0.5,10
+_Afshin,_Ashkan,0.5,10
+_Amin,_Sina Nozarian,0.5,11
+_Ali Izadi,_Ali Asadinia,0.5,11
+_Sina Eslami,_Mehdi Saadati,0.5,11
+_Mohsen Mirzaei,_Alireza Ranjbar,0.5,11
+_Afshin,_Ashkan,0.5,11
+_Amin,_Sina Nozarian,0.5,12
+_Ali Izadi,_Ali Asadinia,0.5,12
+_Sina Eslami,_Mehdi Saadati,0.5,12
+_Mohsen Mirzaei,_Alireza Ranjbar,0.5,12
+_Afshin,_Ashkan,0.5,12
+_Amin,_Sina Nozarian,0.5,13
+_Ali Izadi,_Ali Asadinia,0.5,13
+_Sina Eslami,_Mehdi Saadati,0.5,13
+_Mohsen Mirzaei,_Alireza Ranjbar,0.5,13
+_Afshin,_Ashkan,0.5,13
+_Amin,_Sina Nozarian,0.5,14
+_Ali Izadi,_Ali Asadinia,0.5,14
+_Sina Eslami,_Mehdi Saadati,0.5,14
+_Mohsen Mirzaei,_Alireza Ranjbar,0.5,14
+_Afshin,_Ashkan,0.5,14
+_Amin,_Sina Nozarian,0.75,15
+_Ali Izadi,_Ali Asadinia,0.75,15
+_Sina Eslami,_Mehdi Saadati,0.75,15
+_Mohsen Mirzaei,_Alireza Ranjbar,0.75,15
+_Afshin,_Ashkan,0.75,15
+_Sina Nozarian,_Behnam Hajimosaei,0.35,16
+_Alireza Nazeri,_Payam Zh. Monfared,0.35,16
+_Mohammad_Amin Ghiasi,_Ali Izadi,0.35,16
+_Milad,_Mehdi Saadati,0.35,16
+_Alireza Najafi,_Alireza Ranjbar,0.35,16
+_Saeid Hobbi,_Ashkan,0.35,16
+_Pedram Ensandoost,_Sina Nozarian,1.0,17
+_Sina Eslami,_Ali Asadinia,1.0,17
+_Mohsen Mirzaei,_Ali Izadi,1.0,17
+_Mehdi Saadati,_Mohammad_Amin Ghiasi,1.0,17
+_Alireza Najafi,_Yousef Nikzad,1.0,17
+_Pedram Ensandoost,_Sina Nozarian,0.75,18
+_Sina Eslami,_Ali Asadinia,0.75,18
+_Mohsen Mirzaei,_Ali Izadi,0.75,18
+_Mehdi Saadati,_Mohammad_Amin Ghiasi,0.75,18
+_Alireza Najafi,_Yousef Nikzad,0.75,18
+_Pedram Ensandoost,_Sina Nozarian,0.75,19
+_Sina Eslami,_Ali Asadinia,0.75,19
+_Mohsen Mirzaei,_Ali Izadi,0.75,19
+_Mehdi Saadati,_Mohammad_Amin Ghiasi,0.75,19
+_Alireza Najafi,_Yousef Nikzad,0.75,19
+_Pedram Ensandoost,_Sina Nozarian,0.75,20
+_Sina Eslami,_Ali Asadinia,0.75,20
+_Mohsen Mirzaei,_Ali Izadi,0.75,20
+_Mehdi Saadati,_Mohammad_Amin Ghiasi,0.75,20
+_Alireza Najafi,_Yousef Nikzad,0.75,20
+_Pedram Ensandoost,_Amin,1.0,21
+_Sina Eslami,_Payam Zh. Monfared,1.0,21
+_Mohsen Mirzaei,_Alireza Ranjbar,1.0,21
+_Mehdi Saadati,_Ashkan,1.0,21
+_Alireza Najafi,_Jamshid,1.0,21
+_Pedram Ensandoost,_Amin,0.5,22
+_Sina Eslami,_Payam Zh. Monfared,0.5,22
+_Mohsen Mirzaei,_Alireza Ranjbar,0.5,22
+_Mehdi Saadati,_Ashkan,0.5,22
+_Alireza Najafi,_Jamshid,0.5,22
+_Pedram Ensandoost,_Amin,0.0,23
+_Sina Eslami,_Payam Zh. Monfared,0.0,23
+_Mohsen Mirzaei,_Alireza Ranjbar,0.0,23
+_Mehdi Saadati,_Ashkan,0.0,23
+_Alireza Najafi,_Jamshid,0.0,23
+_Pedram Ensandoost,_Amin,0.75,24
+_Sina Eslami,_Payam Zh. Monfared,0.75,24
+_Mohsen Mirzaei,_Alireza Ranjbar,0.75,24
+_Mehdi Saadati,_Ashkan,0.75,24
+_Alireza Najafi,_Jamshid,0.75,24
+_Sina Nozarian,_Amin,0.5,25
+_Ali Asadinia,_Payam Zh. Monfared,0.5,25
+_Ali Izadi,_Alireza Ranjbar,0.5,25
+_Mohammad_Amin Ghiasi,_Ashkan,0.5,25
+_Yousef Nikzad,_Jamshid,0.5,25
+_Sina Nozarian,_Amin,0.75,26
+_Ali Asadinia,_Payam Zh. Monfared,0.75,26
+_Ali Izadi,_Alireza Ranjbar,0.75,26
+_Mohammad_Amin Ghiasi,_Ashkan,0.75,26
+_Yousef Nikzad,_Jamshid,0.75,26
+_Sina Nozarian,_Behnam Hajimosaei,0.75,27
+_Ali Izadi,_Ali Asadinia,0.75,27
+_Milad,_Payam Zh. Monfared,0.75,27
+_Alireza Najafi,_Alireza Ranjbar,0.75,27
+_Ali Amiri,_Pedram Ensandoost,0.75,27
+_Erfan Moeini,_Yousef Nikzad,0.75,27
+_Behnam Hajimosaei,_Sina Nozarian,0.0,28
+_Alireza Nazeri,_Ali Asadinia,0.0,28
+_Saleh Mohammad Rezaei,_Mehdi Saadati,0.0,28
+_Alireza Najafi,_Alireza Ranjbar,0.0,28
+_Ali Kalantari,_Ashkan,0.0,28
+_Behnam Hajimosaei,_Amin,0.25,29
+_Alireza Nazeri,_Ali Izadi,0.25,29
+_Saleh Mohammad Rezaei,_Sina Eslami,0.25,29
+_Alireza Najafi,_Mohsen Mirzaei,0.25,29
+_Ali Kalantari,_Afshin,0.25,29
+_Behnam Hajimosaei,_Amin,0.25,30
+_Alireza Nazeri,_Ali Izadi,0.25,30
+_Saleh Mohammad Rezaei,_Sina Eslami,0.25,30
+_Alireza Najafi,_Mohsen Mirzaei,0.25,30
+_Ali Kalantari,_Afshin,0.25,30
+_Sina Eslami,_Alireza Najafi,0.85,31
+_Mohsen Mirzaei,_Ali Asadinia,0.85,31
+_Ali Kalantari,_Ali Izadi,0.85,31
+_Alireza Ranjbar,_Milad,0.85,31
+_Erfan Moeini,_Behnam Hajimosaei,0.85,31
+_Payam Zh. Monfared,_Sina Eslami,0.85,31
+_Ali Amiri,_Mehdi Saadati,0.85,31
+_Sina Nozarian,_Behnam Hajimosaei,0.51,32
+_Payam Zh. Monfared,_Pedram Ensandoost,0.51,32
+_Hadi,_Ali Asadinia,0.51,32
+_Alireza Najafi,_Alireza Ranjbar,0.51,32
+_Milad,_Mohammad_Amin Ghiasi,0.51,32
+,_Afshin,0.51,32
+,_Yousef Nikzad,0.51,32
+_Sina Nozarian,_Behnam Hajimosaei,0.51,33
+_Payam Zh. Monfared,_Hadi,0.51,33
+_Saeid Hobbi,_Ali Amiri,0.51,33
+_Alireza Ranjbar,_Mehdi Saadati,0.51,33
+_Mohammad_Amin Ghiasi,_Milad,0.51,33
+_Behnam Hajimosaei,_Sina Nozarian,0.0,34
+_Ali Amiri,_Amin,0.0,34
+_Mohsen Mirzaei,_Ali Asadinia,0.0,34
+_Alireza Ranjbar,_Ali Izadi,0.0,34
+_Alireza Najafi,_Hadi,0.0,34
+_Erfan Moeini,_Payam Zh. Monfared,0.0,34
+_Yousef Nikzad,_Afshin,0.0,34
+_Pedram Ensandoost,_Milad,0.0,34
+_Behnam Hajimosaei,_Sina Nozarian,1.0,35
+_Ali Amiri,_Amin,1.0,35
+_Mohsen Mirzaei,_Ali Asadinia,1.0,35
+_Alireza Ranjbar,_Ali Izadi,1.0,35
+_Alireza Najafi,_Hadi,1.0,35
+_Erfan Moeini,_Payam Zh. Monfared,1.0,35
+_Yousef Nikzad,_Afshin,1.0,35
+_Sina Nozarian,_Behnam Hajimosaei,0.51,36
+_Ali Asadinia,_Payam Zh. Monfared,0.51,36
+_Ali Izadi,_Alireza Nazeri,0.51,36
+_Saeid Hobbi,_Hadi,0.51,36
+_Alireza Ranjbar,_Mohammad_Amin Ghiasi,0.51,36
+_Alireza Najafi,_Ali Amiri,0.51,36
+,_Afshin,0.51,36
+_Sina Nozarian,_Behnam Hajimosaei,0.5714285715,37
+_Payam Zh. Monfared,_Ali Asadinia,0.5714285715,37
+_Ali Amiri,_Alireza Nazeri,0.5714285715,37
+_Mohsen Mirzaei,_Sina Eslami,0.5714285715,37
+_Alireza Ranjbar,_Mehdi Saadati,0.5714285715,37
+_Mohammad_Amin Ghiasi,_Afshin,0.5714285715,37
+_Alireza Najafi,_Yousef Nikzad,0.5714285715,37
+_Sina Nozarian,_Behnam Hajimosaei,0.175,38
+_Ali Asadinia,_Ali Izadi,0.175,38
+_Sina Eslami,_Alireza Ranjbar,0.175,38
+_Mehdi Saadati,_Mohsen Mirzaei,0.175,38
+_Hadi,_Milad,0.175,38
+_Alireza Najafi,_Yousef Nikzad,0.175,38
+_Afshin,_Ali Kalantari,0.175,38
+_Payam Zh. Monfared,_Sina Nozarian,0.0,39
+_Alireza Ranjbar,_Alireza Nazeri,0.0,39
+_Afshin,_Ali Izadi,0.0,39
+_Alireza Najafi,_Mohammad_Amin Ghiasi,0.0,39
+_Maghsad,_Behnam Hajimosaei,0.0,39
+_Ali Kalantari,_Milad,0.0,39
+_Shayan,_Yousef Nikzad,0.0,39
+_Payam Zh. Monfared,_Ali Asadinia,0.83,40
+_Ali Amiri,_Alireza Nazeri,0.83,40
+_Hadi,_Sina Eslami,0.83,40
+_Mohsen Mirzaei,_Alireza Ranjbar,0.83,40
+_Mohammad_Amin Ghiasi,_Alireza Najafi,0.83,40
+_Milad,_Afshin,0.83,40
+_Ali Izadi,_Ali Kalantari,0.83,40
+_Amin,_Pedram Ensandoost,1.0,41
+_Sina Eslami,_Ali Asadinia,1.0,41
+_Alireza Nazeri,_Payam Zh. Monfared,1.0,41
+_Hadi,_Alireza Ranjbar,1.0,41
+_Mohsen Mirzaei,_Milad,1.0,41
+_Ali Amiri,_Afshin,1.0,41
+_Maghsad,_Ali Izadi,1.0,41
+_Shayan,,1.0,41
+_Pedram Ensandoost,_Sina Nozarian,1.0,42
+_Mohsen Mirzaei,_Hadi,1.0,42
+_Maghsad,_Alireza Ranjbar,1.0,42
+_Shayan,_Milad,1.0,42
+_Jamshid,_Alireza Najafi,1.0,42
+_Payam Zh. Monfared,_Ali Izadi,1.0,42
+_Sina Nozarian,_Pedram Ensandoost,0.355,43
+_Payam Zh. Monfared,_Ali Asadinia,0.355,43
+_Hadi,_Sina Eslami,0.355,43
+_Milad,_Alireza Nazeri,0.355,43
+_Ali Izadi,_Alireza Ranjbar,0.355,43
+_Alireza Najafi,_Afshin,0.355,43
+_Behnam Hajimosaei,_Sina Nozarian,0.55,44
+_Alireza Nazeri,_Ali Asadinia,0.55,44
+_Hadi,_Ali Izadi,0.55,44
+_Payam Zh. Monfared,_Alireza Ranjbar,0.55,44
+_Milad,_Yousef Nikzad,0.55,44
+_Alireza Najafi,_Shayan,0.55,44
+_Jamshid,_Afshin,0.55,44
+_Sina Nozarian,_Behnam Hajimosaei,0.7,45
+_Payam Zh. Monfared,_Ali Asadinia,0.7,45
+_Hadi,_Sina Eslami,0.7,45
+_Milad,_Alireza Ranjbar,0.7,45
+_Mohammad_Amin Ghiasi,_Ali Izadi,0.7,45
+_Shayan,_Yousef Nikzad,0.7,45
+_Alireza Najafi,_Afshin,0.7,45
+_Pedram Ensandoost,_Sina Nozarian,0.415,46
+_Payam Zh. Monfared,_Ali Asadinia,0.415,46
+_Hadi,_Alireza Ranjbar,0.415,46
+_Yousef Nikzad,_Milad,0.415,46
+_Shayan,_Afshin,0.415,46
+_Alireza Najafi,_Ali Kalantari,0.415,46
+_Sina Nozarian,_Amin,0.525,47
+_Behnam Hajimosaei,_Ali Amiri,0.525,47
+_Payam Zh. Monfared,_Hadi,0.525,47
+_Shayan,_Milad,0.525,47
+_Alireza Ranjbar,_Mohammad_Amin Ghiasi,0.525,47
+_Ali Kalantari,_Yousef Nikzad,0.525,47
+_Alireza Najafi,_Jamshid,0.525,47
+_Sina Nozarian,_Behnam Hajimosaei,1.0,48
+_Ali Asadinia,_Sina Eslami,1.0,48
+_Saeid Hobbi,_Alireza Nazeri,1.0,48
+_Milad,_Ali Amiri,1.0,48
+_Alireza Ranjbar,_Ali Kalantari,1.0,48
+_Afshin,_Alireza Najafi,1.0,48
+_Sina Eslami,_Ali Amiri,0.5,49
+_Hadi,_Ali Asadinia,0.5,49
+_Alireza Ranjbar,_Ali Izadi,0.5,49
+_Shayan,_Yousef Nikzad,0.5,49
+_Mohammad_Amin Ghiasi,_Afshin,0.5,49
+_Alireza Najafi,,0.5,49
+_Pedram Ensandoost,_Sina Nozarian,0.525,50
+_Sina Eslami,_Ali Asadinia,0.525,50
+_Payam Zh. Monfared,_Hadi,0.525,50
+_Mohammad_Amin Ghiasi,_Alireza Ranjbar,0.525,50
+_Yousef Nikzad,_Ali Kalantari,0.525,50
+_Jamshid,_Alireza Najafi,0.525,50
+_Sina Nozarian,_Pedram Ensandoost,1.0,51
+_Sina Eslami,_Shayan,1.0,51
+_Payam Zh. Monfared,_Hadi,1.0,51
+_Ali Asadinia,_Ali Amiri,1.0,51
+_Yousef Nikzad,_Ali Kalantari,1.0,51
+_Jamshid,_Mohammad_Amin Ghiasi,1.0,51
+_Behnam Hajimosaei,_Pedram Ensandoost,1.0,52
+_Sina Eslami,_Shayan,1.0,52
+_Payam Zh. Monfared,_Mohsen Mirzaei,1.0,52
+_Ali Asadinia,_Ali Amiri,1.0,52
+_Alireza Nazeri,_Afshin,1.0,52
+_Jamshid,_Mohammad_Amin Ghiasi,1.0,52
+_Behnam Hajimosaei,_Pedram Ensandoost,1.0,53
+_Alireza Najafi,_Jamshid,1.0,53
+_Payam Zh. Monfared,_Yousef Nikzad,1.0,53
+_Ali Asadinia,_Ali Amiri,1.0,53
+_Alireza Nazeri,_Ali Kalantari,1.0,53
+_Jamshid,_Mohammad_Amin Ghiasi,1.0,53
